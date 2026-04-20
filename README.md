@@ -14,16 +14,27 @@ SOFTWARE REQUIRED:
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtained. 
 
 ## CIRCUIT DIAGRAM: Inverting amplifier: 
+<img width="872" height="690" alt="image" src="https://github.com/user-attachments/assets/05271a91-a712-40e0-a6a7-e0b2b862f712" />
 
 ## GRAPH: Inverting amplifier: 
+<img width="946" height="441" alt="image" src="https://github.com/user-attachments/assets/115711a9-32e5-47b5-8393-e0dd0bf90f55" />
+
 
 ## CIRCUIT DIAGRAM: Non inverting amplifier:
+<img width="932" height="609" alt="image" src="https://github.com/user-attachments/assets/c678c132-820c-4007-a4e1-60bb32484d2e" />
+
 
 ## GRAPH: Non inverting amplifier:
+<img width="961" height="437" alt="image" src="https://github.com/user-attachments/assets/62e9c6a5-3cd4-418a-9a17-5d8faf7d57b7" />
+
 
 ## CIRCUIT DIAGRAM: Differential amplifier: 
+<img width="961" height="508" alt="image" src="https://github.com/user-attachments/assets/885fcd97-fa90-478b-b498-0dc64d8fb87f" />
+
 
 ## GRAPH: Differential amplifier:
+<img width="933" height="457" alt="image" src="https://github.com/user-attachments/assets/24c88cf3-561d-4053-9194-71952b6b6850" />
+
 
 ## RESULT:
-
+Thus the LT Spice tool has been studied and non-inverting ,inverting,differential amplifier circuit is stimulated.
