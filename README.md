@@ -14,7 +14,7 @@ SOFTWARE REQUIRED:
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtained. 
 
 ## CIRCUIT DIAGRAM: Inverting amplifier: 
-<img width="872" height="690" alt="image" src="https://github.com/user-attachments/assets/05271a91-a712-40e0-a6a7-e0b2b862f712" />
+<img width="1174" height="905" alt="image" src="https://github.com/user-attachments/assets/91cb3db7-9d05-4fce-8bc9-21782ff92282" />
 
 ## GRAPH: Inverting amplifier: 
 <img width="946" height="441" alt="image" src="https://github.com/user-attachments/assets/115711a9-32e5-47b5-8393-e0dd0bf90f55" />
