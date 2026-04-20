@@ -33,7 +33,7 @@ SOFTWARE REQUIRED:
 
 
 ## GRAPH: Differential amplifier:
-<img width="933" height="457" alt="image" src="https://github.com/user-attachments/assets/24c88cf3-561d-4053-9194-71952b6b6850" />
+<img width="773" height="379" alt="image" src="https://github.com/user-attachments/assets/b2261fb9-36ab-4650-b8e1-41589442fc53" />
 
 
 ## RESULT:
